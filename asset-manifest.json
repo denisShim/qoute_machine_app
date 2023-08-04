@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/qoute_machine_app/static/css/main.bc7677d2.css",
+    "main.js": "/qoute_machine_app/static/js/main.ac5cd977.js",
+    "index.html": "/qoute_machine_app/index.html",
+    "main.bc7677d2.css.map": "/qoute_machine_app/static/css/main.bc7677d2.css.map",
+    "main.ac5cd977.js.map": "/qoute_machine_app/static/js/main.ac5cd977.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc7677d2.css",
+    "static/js/main.ac5cd977.js"
+  ]
+}
